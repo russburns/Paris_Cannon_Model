@@ -1,4 +1,4 @@
-Recoding I did of a Practical Computing for Scientsts group project.
+Retrospective recoding I did of one of my Practical Computing for Scientsts group projects.
 Changes:
 *Modified shootgun() to accept a boolean dictating which results to return (eliminates shoot_gunB)
 *Added shell height plot
